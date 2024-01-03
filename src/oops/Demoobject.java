@@ -35,6 +35,6 @@ class parent {
 	}
 class child1 extends parent {
 	public void gold() {
-		System.out.println(" Child property -Gold");
+		System.out.println(" Child property gold - Gold");
 	}
 }
